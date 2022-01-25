@@ -11,7 +11,6 @@ Reinforcement learning using a map:
 * velha2.c - game for human and computer (Portuguese).
 * velha2_auto.c - auto play for training the computer (Portuguese).
 
-<br />
 Reinforcement learning using probability:
 * ttt3.c - game for human and computer (English).
 * ttt3_auto_play.c - auto play for training the computer (English).
